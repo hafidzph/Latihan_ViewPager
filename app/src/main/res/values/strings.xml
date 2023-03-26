@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewPagerTask</string>
+    <string name="first_fragment_showing">FIRST FRAGMENT SHOWING</string>
+    <string name="second_fragment_showing">SECOND FRAGMENT SHOWING</string>
+    <string name="third_fragment_showing">THIRD FRAGMENT SHOWING</string>
+    <string name="fourth_fragment_showing">FOURTH FRAGMENT SHOWING</string>
+</resources>
